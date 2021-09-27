@@ -10,9 +10,8 @@
 <br/>“Qualquer tecnologia suficientemente avançada é equivalente à mágica”. Arthur C. Clarke – escritor<br/>
  <h2> Meus contatos </h2><br/>
  >E-mail: FabianoSavariz@gmail.com<br/>
- >Linkedin:<br/>
- >Facebook:<br/>
- >whatsapp:<br/>
+ >Linkedin: linkedin.com/in/fabiano-savariz<br/>
+ >Facebook: facebook.com/fabiano.savariz.50<br/>
 
 <br/>
 <h2> Minhas tecnologias Preferidas </h2>
