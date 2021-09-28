@@ -26,6 +26,4 @@
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=html" align="center"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=html" align="center"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt=html" align="center"/>
-</div><br/>                                                                                                            
-                                                                                                                                
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevFabianoSavariz&repo=github-readme-stats&show_icons=true&theme=dark)](https://github.com/DevFabianoSavariz/github-readme-stats)
+</div><br/>
