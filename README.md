@@ -4,7 +4,7 @@
 
 
 ![DevFabianoSavariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFabianoSavariz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFabianoSavariz&layout=compact&theme=dark)](https://github.com/DevFabianoSavariz/github-readme-stats)
 
 
 <br/>“Qualquer tecnologia suficientemente avançada é equivalente à mágica”. Arthur C. Clarke – escritor<br/>
