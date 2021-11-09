@@ -1,7 +1,7 @@
 
 ### Olá seja Bem-vindo
-![fsdev](https://user-images.githubusercontent.com/46506377/140945837-c09ff9e4-9c25-47a6-b838-89ea27c312ed.gif)
 
+![FSdev](https://user-images.githubusercontent.com/46506377/140947632-42602b52-7ad4-45dc-bbaa-885c3aaee779.gif)
 
 ![DevFabianoSavariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFabianoSavariz&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFabianoSavariz&layout=compact&theme=dark)](https://github.com/DevFabianoSavariz/github-readme-stats)
