@@ -3,7 +3,7 @@
 
 ![FSdev](https://user-images.githubusercontent.com/46506377/140947632-42602b52-7ad4-45dc-bbaa-885c3aaee779.gif)
 
-![DevFabianoSavariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFabianoSavariz&show_icons=true&theme=dark&card_width=200)
+![DevFabianoSavariz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFabianoSavariz&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFabianoSavariz&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
