@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" alt="Javascript"/>
   <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS" alt=CSS"/>
   <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=SASS" alt=SASS"/>
-  <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML" alt=Html"/>
+  <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML5" alt=Html"/>
   <img src="https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=GraphQl" alt=GraphQL"/>
   <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MoNgoDB" alt=MongoDB"/>
 <br/>
