@@ -1,16 +1,58 @@
-## Hi there 👋
 
-<!--
-**DevFabianoSavariz/DevFabianoSavariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="845" height="420" alt="Developer Front end" src="https://github.com/user-attachments/assets/e6fef30a-793b-4543-9b25-b84e8eb73e89" />
 
-Here are some ideas to get you started:
+<br/><br/>
+<div align="center">
+🪲🪲🪲🪲🪲
+</div>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr></hr>
+
+<h3>🦎 Message </h3>
+<br/>
+ “Any sufficiently advanced technology is equivalent to magic". 🍂 Arthur C. Clarke – writer
+<br/><br/>
+
+<hr></hr>
+
+<h3>🦎 My contact </h3>
+<br/>
+  🕊️ FabianoSavariz@gmail.com<br/>
+<br/>
+
+<hr></hr>
+
+<h3>🦎 My favorite technologies </h3>
+<br/>
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/%27Web%20aplication%27%20-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%27Web%20components%27%20-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%27Web%20accessibility%27%20-black?style=for-the-badge"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Astro.JS-black?style=for-the-badge&logo=astro" alt="AstroJS"/>
+  <img src="https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=nextdotjs" alt="NextJS"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript"/>
+  <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML5" alt=Html"/>
+  <img src="https://img.shields.io/badge/Tailwind.CSS-black?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS" alt=CSS"/>
+  <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=SASS" alt=SASS"/>
+   <br/><br/>
+  <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma" alt=Prisma"/>
+  <img src="https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=GraphQl" alt=GraphQL"/>
+  <img src="https://img.shields.io/badge/Postgre-black?style=for-the-badge&logo=PostgreSQL" alt=Postgre"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Capacitor-black?style=for-the-badge&logo=capacitor" alt=Capacitor"/>
+  <img src="https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron" alt=Electron"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine" alt=Unreal Engine"/>
+<br/>
+</div>
+
+<hr></hr>
+
+<div align="center">
+ n__n__🦖__n___
+</div>
