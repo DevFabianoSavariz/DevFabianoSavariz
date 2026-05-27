@@ -41,13 +41,14 @@
   <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS" alt=CSS"/>
   <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=SASS" alt=SASS"/>
    <br/><br/>
-  <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma" alt=Prisma"/>
-  <img src="https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=GraphQl" alt=GraphQL"/>
-  <img src="https://img.shields.io/badge/Postgre-black?style=for-the-badge&logo=PostgreSQL" alt=Postgre"/>
+  <img src="https://img.shields.io/badge/Better%20Auth-black?style=for-the-badge&logo=betterAuth" alt="Better Auth"/>
+  <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Graphql-black?style=for-the-badge&logo=GraphQl" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Postgre-black?style=for-the-badge&logo=PostgreSQL" alt="Postgre"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Capacitor-black?style=for-the-badge&logo=capacitor" alt=Capacitor"/>
-  <img src="https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron" alt=Electron"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine" alt=Unreal Engine"/>
+  <img src="https://img.shields.io/badge/Capacitor-black?style=for-the-badge&logo=capacitor" alt="Capacitor"/>
+  <img src="https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron" alt="Electron"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine" alt="Unreal Engine"/>
 <br/>
 </div>
 
