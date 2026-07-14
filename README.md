@@ -27,6 +27,7 @@
 <br/>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/%27Web%20aplication%27%20-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%27Web%20Motion%20Design%27%20-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/%27Web%20components%27%20-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/%27Web%20accessibility%27%20-black?style=for-the-badge"/>
   <br/><br/>
