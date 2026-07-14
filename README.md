@@ -3,27 +3,27 @@
 
 <br/><br/>
 <div align="center">
-🪲🪲🪲🪲🪲
+🕸️🕸️🕸️🕸️🕸️
 </div>
 <br/>
 
 <hr></hr>
 
-<h3>🦎 Message </h3>
+<h3>🦈 Message </h3>
 <br/>
  “Any sufficiently advanced technology is equivalent to magic". 🍂 Arthur C. Clarke – writer
 <br/><br/>
 
 <hr></hr>
 
-<h3>🦎 My contact </h3>
+<h3>🦈 My contact </h3>
 <br/>
-  🕊️ FabianoSavariz@gmail.com<br/>
+  🕊️ DevFabianoSavariz@gmail.com<br/>
 <br/>
 
 <hr></hr>
 
-<h3>🦎 My favorite technologies </h3>
+<h3>🦈 My favorite technologies </h3>
 <br/>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/%27Web%20aplication%27%20-black?style=for-the-badge"/>
@@ -55,5 +55,5 @@
 <hr></hr>
 
 <div align="center">
- n__n__🦖__n___
+ n__n__🐈‍⬛__n___
 </div>
