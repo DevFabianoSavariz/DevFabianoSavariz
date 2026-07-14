@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/%27Web%20Motion%20Design%27%20-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/%27Web%20components%27%20-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/%27Web%20accessibility%27%20-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/%27UI-UX%27%20-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%27UI%20UX%27%20-black?style=for-the-badge"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Astro.JS-black?style=for-the-badge&logo=astro" alt="AstroJS"/>
   <img src="https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=nextdotjs" alt="NextJS"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript" alt="Typescript"/>
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript"/>
   <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML5" alt=Html"/>
- <img src="https://img.shields.io/badge/Lenis%20Scroll-black?style=for-the-badge&logo=scrollreveal alt="Lenis Scroll"/>
+  <img src="https://img.shields.io/badge/Lenis%20Scroll-black?style=for-the-badge&logo=scrollreveal alt="Lenis Scroll"/>
   <img src="https://img.shields.io/badge/Gsap-black?style=for-the-badge&logo=Gsap alt="Gsap"/>
   <img src="https://img.shields.io/badge/Tailwind.CSS-black?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS" alt=CSS"/>
