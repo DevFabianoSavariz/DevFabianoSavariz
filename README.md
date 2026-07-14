@@ -39,8 +39,8 @@
   <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript" alt="Typescript"/>
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript"/>
   <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML5" alt=Html"/>
-  <img src="https://img.shields.io/badge/Lenis%20Scroll-black?style=for-the-badge&logo=scrollreveal alt="Lenis Scroll"/>
-  <img src="https://img.shields.io/badge/Gsap-black?style=for-the-badge&logo=Gsap alt="Gsap"/>
+  <img src="https://img.shields.io/badge/Lenis%20Scroll-black?style=for-the-badge&logo=scrollreveal" alt="Lenis Scroll"/>
+  <img src="https://img.shields.io/badge/Gsap-black?style=for-the-badge&logo=Gsap" alt="Gsap"/>
   <img src="https://img.shields.io/badge/Tailwind.CSS-black?style=for-the-badge&logo=tailwindcss" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS" alt=CSS"/>
   <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=SASS" alt=SASS"/>
