@@ -19,9 +19,18 @@
 <h3>🦈 Meus Contatos </h3>
 <p>Entre em contato, para discutirmos o seu projeto!</p>
 <br/>
-  <img src="https://img.shields.io/badge/Email%20%27DevFabianoSavariz@gmail.com%27%20-black?style=for-the-badge&logo=gmail" alt="Email"/>
-<!--<img src="https://img.shields.io/badge/Whatsapp%20%27number%27%20-black?style=for-the-badge&logo=whatsapp" alt="Whatsapp"/>-->
-  <img src="https://img.shields.io/badge/Instagram%20%27fabianosavariz.dev%27%20-black?style=for-the-badge&logo=instagram/reddit/user-karma/link/https%3A%2F%2Fwww.instagram.com%2Ffabianosavariz.dev" alt="Instagram"/>
+<a href="mailto:DevFabianoSavariz@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20DevFabianoSavariz-black?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+<!--
+<a href="https://wa.me/5554999999999" target="_blank">
+  <img src="https://img.shields.io/badge/Whatsapp%20DevFabianoSavariz-black?style=for-the-badge&logo=whatsapp" alt="Whatsapp"/>
+</a>
+-->
+<a href="https://www.instagram.com/fabianosavariz.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram%20%27fabianosavariz.dev%27%20-black?style=for-the-badge&logo=instagram" alt="Instagram"/>
+</a>
+
 <br/>
 
 <hr></hr>
