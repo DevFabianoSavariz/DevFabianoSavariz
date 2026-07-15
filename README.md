@@ -1,5 +1,4 @@
-
-<img width="845" height="420" alt="Developer Front end" src="https://github.com/user-attachments/assets/e6fef30a-793b-4543-9b25-b84e8eb73e89" />
+https://github.com/user-attachments/assets/6edb2365-530f-4137-aef9-eaed966dbc64
 
 <br/><br/>
 <div align="center">
