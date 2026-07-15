@@ -9,21 +9,23 @@
 
 <hr></hr>
 
-<h3>🦈 Message </h3>
+<h3>🦈 Mensagem </h3>
 <br/>
- “Any sufficiently advanced technology is equivalent to magic". 🍂 Arthur C. Clarke – writer
+ “Qualquer tecnologia suficientemente avançada é equivalente à magia”. 🍂 Arthur C. Clarke – escritor
 <br/><br/>
 
 <hr></hr>
 
-<h3>🦈 My contact </h3>
+<h3>🦈 Meus Contatos </h3>
+<p>Entre em contato, para discutirmos o seu projeto!</p>
 <br/>
-  🕊️ DevFabianoSavariz@gmail.com<br/>
+  🕊️ Email: DevFabianoSavariz@gmail.com<br/>
+  🕊️ instagram: fabianosavariz.dev<br/>
 <br/>
 
 <hr></hr>
 
-<h3>🦈 My favorite technologies </h3>
+<h3>🦈 Minhas tecnologias favoritas </h3>
 <br/>
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/%27Web%20aplication%27%20-black?style=for-the-badge"/>
