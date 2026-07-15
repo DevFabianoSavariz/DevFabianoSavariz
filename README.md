@@ -21,8 +21,7 @@
 <br/>
   <img src="https://img.shields.io/badge/Email%20%27DevFabianoSavariz@gmail.com%27%20-black?style=for-the-badge&logo=gmail" alt="Email"/>
 <!--<img src="https://img.shields.io/badge/Whatsapp%20%27number%27%20-black?style=for-the-badge&logo=whatsapp" alt="Whatsapp"/>-->
-  <img src="https://img.shields.io/badge/Instagram%20%27fabianosavariz.dev%27%20-black?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  <img src="https://img.shields.io/badge/Instagram%20%27fabianosavariz.dev%27%20-black?style=for-the-badge&logo=instagram/link/https%3A%2F%2Fwww.instagram.com%2Ffabianosavariz.dev" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram%20%27fabianosavariz.dev%27%20-black?style=for-the-badge&logo=instagram/reddit/user-karma/link/https%3A%2F%2Fwww.instagram.com%2Ffabianosavariz.dev"" alt="Instagram"/>
 <br/>
 
 <hr></hr>
