@@ -19,7 +19,7 @@
 <h3>🦈 Meus Contatos </h3>
 <p>Entre em contato, para discutirmos o seu projeto!</p>
 <br/>
-<a href="mailto:DevFabianoSavariz@gmail.com">
+<a href="https://www.gmail.comDevFabianoSavariz@gmail.com">
   <img src="https://img.shields.io/badge/Email%20DevFabianoSavariz-black?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 <!--
