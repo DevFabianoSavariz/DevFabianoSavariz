@@ -32,7 +32,7 @@
 </a>
 
 <br/>
-
+<!--
 <hr></hr>
 
 <h3>🦈 Minhas tecnologias favoritas </h3>
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine" alt="Unreal Engine"/>
 <br/>
 </div>
-
+-->
 <hr></hr>
 
 <div align="center">
