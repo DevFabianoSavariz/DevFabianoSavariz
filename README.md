@@ -17,7 +17,7 @@
 <hr></hr>
 
 <h3>🦈 Meus Contatos </h3>
-<p>𝗘𝗻𝘁𝗿𝗲 𝗲𝗺 𝗰𝗼𝗻𝘁𝗮𝘁𝗼, 𝗽𝗮𝗿𝗮 𝗱𝗶𝘀𝗰𝘂𝘁𝗶𝗿𝗺𝗼𝘀 𝗼 𝘀𝗲𝘂 𝗽𝗿𝗼𝗷𝗲𝘁𝗼!</p>
+<p>𝗘𝗻𝘁𝗿𝗲 𝗲𝗺 𝗰𝗼𝗻𝘁𝗮𝘁𝗼, 𝗽𝗮𝗿𝗮 𝗱𝗶𝘀𝗰𝘂𝘁𝗶𝗿𝗺𝗼𝘀 𝗼 𝘀𝗲𝘂 𝗽𝗿𝗼́𝘅𝗶𝗺𝗼 𝗽𝗿𝗼𝗷𝗲𝘁𝗼!</p>
 <br/>
 <a href="mailto:DevFabianoSavariz@gmail.com">
   <img src="https://img.shields.io/badge/Email%20DevFabianoSavariz-black?style=for-the-badge&logo=gmail" alt="Email"/>
