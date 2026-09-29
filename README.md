@@ -11,7 +11,6 @@
 
 <h3>🦈 Mensagem </h3>
 <br/>
- “Qualquer tecnologia suficientemente avançada é equivalente à magia”. 🍂 Arthur C. Clarke – escritor
  “𝗤𝘂𝗮𝗹𝗾𝘂𝗲𝗿 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮 𝘀𝘂𝗳𝗶𝗰𝗶𝗲𝗻𝘁𝗲𝗺𝗲𝗻𝘁𝗲 𝗮𝘃𝗮𝗻𝗰̧𝗮𝗱𝗮 𝗲́ 𝗲𝗾𝘂𝗶𝘃𝗮𝗹𝗲𝗻𝘁𝗲 𝗮̀ 𝗺𝗮𝗴𝗶𝗮”. 🍂 𝗔𝗿𝘁𝗵𝘂𝗿 𝗖. 𝗖𝗹𝗮𝗿𝗸𝗲 – 𝗲𝘀𝗰𝗿𝗶𝘁𝗼𝗿
 <br/><br/>
 
